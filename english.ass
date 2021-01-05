@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.58,0:00:17.29,Default,,0,0,0,,{\fad(0,300)\fs41\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(410,88)\clip(98,28,348,132)\t(0,110,\clip(98,28,754,144))}JANUARY 24, 2096 - USNA EMBASSY
+Dialogue: 0,0:00:16.20,0:00:18.87,Default,,0,0,0,,Is that true, Silvie?
+Dialogue: 0,0:00:18.87,0:00:23.79,Default,,0,0,0,,Yes. I've received orders\Nfrom the General Staff Office to return home.
+Dialogue: 0,0:00:23.79,0:00:26.66,Default,,0,0,0,,But why?
+Dialogue: 0,0:00:26.66,0:00:31.95,Default,,0,0,0,,Because I was not good enough to fulfill\Nmy rear support role on this mission.
+Dialogue: 0,0:00:31.95,0:00:34.45,Default,,0,0,0,,I'm terribly sorry, Commander!
+Dialogue: 0,0:00:34.45,0:00:38.54,Default,,0,0,0,,Silvie, don't call me that! It's too stiff!
+Dialogue: 0,0:00:38.54,0:00:41.41,Default,,0,0,0,,Please, call me Lina\Nlike you have until now.
+Dialogue: 0,0:00:41.41,0:00:43.99,Default,,0,0,0,,All right, Lina.
+Dialogue: 0,0:00:43.99,0:00:49.33,Default,,0,0,0,,It hurts me to go back home and leave you\Nto your own oversleeping habits, but...
+Dialogue: 0,0:00:49.33,0:00:51.45,Default,,0,0,0,,Now you're too informal!
+Dialogue: 0,0:00:51.45,0:00:55.16,Default,,0,0,0,,Besides, the day before yesterday\Nwas the only day I slept in, wasn't it?
+Dialogue: 0,0:00:56.74,0:00:59.16,Default,,0,0,0,,Are you done?
+Dialogue: 0,0:01:00.33,0:01:02.08,Default,,0,0,0,,Colonel!
+Dialogue: 0,0:01:02.08,0:01:08.41,Default,,0,0,0,,{\an1\fs33\fad(0,300)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(168,632)\clip(144,556,202,654)\t(0,240,\clip(144,556,1164,640))}COLONEL VIRGINIA BALANCE - FIRST DEPUTY COMMISSIONER OF THE USNA JOINT\NCHIEFS OF STAFF INTERNAL INSPECTION OFFICE WITHIN THE INFORMATION BUREAU
+Dialogue: 0,0:01:02.37,0:01:05.08,Default,,0,0,0,,{\an8}Major Sirius, the mission assigned to you
+Dialogue: 0,0:01:05.08,0:01:07.74,Default,,0,0,0,,{\an8}was not suitable given your duty
+Dialogue: 0,0:01:07.74,0:01:09.66,Default,,0,0,0,,{\an8}and your skills.
+Dialogue: 0,0:01:09.66,0:01:15.20,Default,,0,0,0,,And it is my belief that failing in your mission\Ndoes not deserve laying the onus upon you.
+Dialogue: 0,0:01:15.20,0:01:17.87,Default,,0,0,0,,Regardless, however,\Nof where the responsibility for this lies,
+Dialogue: 0,0:01:17.87,0:01:20.37,Default,,0,0,0,,the fact that someone\Nin the position of Stars
+Dialogue: 0,0:01:20.37,0:01:25.16,Default,,0,0,0,,was defeated in magical combat\Nis something we need to be concerned about.
+Dialogue: 0,0:01:25.16,0:01:29.58,Default,,0,0,0,,After all, you are the\Nstrongest magician in the military.
+Dialogue: 0,0:01:29.58,0:01:34.04,Default,,0,0,0,,Of course, you will no doubt\Nwant a chance to vindicate yourself.
+Dialogue: 0,0:01:34.04,0:01:36.62,Default,,0,0,0,,Isn't that right, Major?
+Dialogue: 0,0:01:36.62,0:01:38.45,Default,,0,0,0,,Of course, Colonel!
+Dialogue: 0,0:01:40.24,0:01:43.08,Default,,0,0,0,,Resume your current mission, Major Sirius.
+Dialogue: 0,0:01:43.08,0:01:47.04,Default,,0,0,0,,I will also raise our on-site support\Nto the highest level.
+Dialogue: 0,0:01:48.66,0:01:52.16,Default,,0,0,0,,Show me the true power of Sirius.
+Dialogue: 0,0:01:52.16,0:01:53.37,Default,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:03:24.10,0:03:26.64,Default,,0,0,0,,{\fad(500,0)\bord0\fnOpen Sans Extrabold\c&H997167&\pos(618,150)}KYUCHOJI TEMPLE
+Dialogue: 0,0:03:24.62,0:03:30.89,Default,,0,0,0,,{\fad(0,300)\fs41\clip(150,44,172,130)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 29, 2096
+Dialogue: 0,0:03:32.87,0:03:40.20,Default,,0,0,0,,A means of directly attacking a parasite\Ndrifting through the sea of information...
+Dialogue: 0,0:03:58.54,0:04:02.16,Default,,0,0,0,,It figures that even you'd have\Ntrouble with this.
+Dialogue: 0,0:04:02.16,0:04:07.08,Default,,0,0,0,,It doesn't seem to me you have\Nabsolutely no compatibility with it, though...
+Dialogue: 0,0:04:07.08,0:04:11.12,Default,,0,0,0,,since you learned how to fire a farstrike\Nin the true world in three days.
+Dialogue: 0,0:04:11.12,0:04:15.95,Default,,0,0,0,,In your case, you know\Nwhere you're supposed to aim,
+Dialogue: 0,0:04:15.95,0:04:20.04,Default,,0,0,0,,so putting together a different attack method\Ninstead of the farstrike would be an idea.
+Dialogue: 0,0:04:20.04,0:04:21.58,Default,,0,0,0,,You think too highly of me.
+Dialogue: 0,0:04:21.58,0:04:26.41,Default,,0,0,0,,I can't develop new spells\Nwilly-nilly like that.
+Dialogue: 0,0:04:26.41,0:04:28.08,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:04:28.08,0:04:30.12,Default,,0,0,0,,You're certainly incapable\Nin certain fields,
+Dialogue: 0,0:04:30.12,0:04:34.87,Default,,0,0,0,,but you have extraordinary talent\Nin spell improvement and development.
+Dialogue: 0,0:04:34.87,0:04:37.08,Default,,0,0,0,,That's right, Brother!
+Dialogue: 0,0:04:37.08,0:04:39.08,Default,,0,0,0,,You can make wonderful ideas reality!
+Dialogue: 0,0:04:39.08,0:04:44.41,Default,,0,0,0,,Ideas that other people\Nwould never even think of!
+Dialogue: 0,0:04:44.41,0:04:48.83,Default,,0,0,0,,Couldn't you continue your first plan\Nof using Program Demolition...
+Dialogue: 0,0:04:48.83,0:04:54.74,Default,,0,0,0,,to directly attack while you move forward\Nwith new spell development at the same time?
+Dialogue: 0,0:04:54.74,0:04:56.33,Default,,0,0,0,,All right.
+Dialogue: 0,0:04:56.33,0:04:59.12,Default,,0,0,0,,I'll try doing just that.
+Dialogue: 0,0:04:59.12,0:05:01.58,Default,,0,0,0,,The magicians then went to the Dallas\NNational Particle Accelerator Institute
+Dialogue: 0,0:05:01.58,0:05:03.54,Default,,0,0,0,,and forced the scientists there\Nto perform an experiment
+Dialogue: 0,0:05:03.54,0:05:06.41,Default,,0,0,0,,to generate a micro black hole,\Nignoring the scientists' warnings.
+Dialogue: 0,0:05:03.99,0:05:04.95,Default,,0,0,0,,{\an8}Brother...
+Dialogue: 0,0:05:05.33,0:05:08.08,Default,,0,0,0,,{\fs39\pos(636,376)}"USNA ARMY SUMMONS DEMON FROM ANOTHER DIMENSION WITH MAGIC EXPERIMENT?
+Dialogue: 0,0:05:06.41,0:05:08.91,Default,,0,0,0,,{\pos(964,690)}During the experiment,\Na hole opened in the dimensional wall,
+Dialogue: 0,0:05:06.41,0:05:07.36,Default,,0,0,0,,{\an8}This is...
+Dialogue: 0,0:05:08.08,0:05:12.04,Default,,0,0,0,,{\an8\pos(982,214)}"USNA ARMY FAILED EXPERIMENT"
+Dialogue: 0,0:05:08.08,0:05:12.04,Default,,0,0,0,,{\pos(340,462)}"IGNORED SCIENTISTS' WARNINGS, \NFORCING THEM TO PERFORM AN \NEXPERIMENT AT THE NATIONAL \NPARTICLE ACCELERATOR INSTITUTE
+Dialogue: 0,0:05:08.91,0:05:12.04,Default,,0,0,0,,{\pos(964,690)}and it called forth\Na demon from another dimension.
+Dialogue: 0,0:05:12.04,0:05:15.91,Default,,0,0,0,,The magicians tried to counter\NJapan's secret weapon by using the demon.
+Dialogue: 0,0:05:15.91,0:05:19.99,Default,,0,0,0,,{\an8}But they failed to control it,\Nand it possessed their bodies instead.
+Dialogue: 0,0:05:16.16,0:05:19.99,Default,,0,0,0,,That's just what Shizuku told us, isn't it?
+Dialogue: 0,0:05:19.99,0:05:22.95,Default,,0,0,0,,{\an8}Blame for the victims falls\Nsquarely on the military.
+Dialogue: 0,0:05:20.29,0:05:22.95,Default,,0,0,0,,Yeah, though it seems\Nlike it's been dramatized quite a bit.
+Dialogue: 0,0:05:22.95,0:05:28.97,Default,,0,0,0,,{\pos(964,448)}"HOLDING THE MILITARY\NAND MAGICIANS ACCOUNTABLE..."
+Dialogue: 0,0:05:23.41,0:05:25.79,Default,,0,0,0,,The underlying cause of this scandal...
+Dialogue: 0,0:05:25.79,0:05:28.66,Default,,0,0,0,,is the military's failure to\Ncompletely regulate magicians.
+Dialogue: 0,0:05:29.37,0:05:34.12,Default,,0,0,0,,Magic is powerful, but nobody knows when\Nthe supernatural ability will go out of control.
+Dialogue: 0,0:05:34.12,0:05:37.33,Default,,0,0,0,,Is using it truly within national interests?
+Dialogue: 0,0:05:37.33,0:05:41.83,Default,,0,0,0,,Shouldn't we be carefully rethinking\Nour stance on the matter?
+Dialogue: 0,0:05:41.83,0:05:44.66,Default,,0,0,0,,It's skillfully sugarcoated, but...
+Dialogue: 0,0:05:44.66,0:05:47.08,Default,,0,0,0,,Then...
+Dialogue: 0,0:05:47.08,0:05:50.87,Default,,0,0,0,,Yes, the expulsion of magicians\Nis probably their true intention.
+Dialogue: 0,0:05:57.70,0:05:59.66,Default,,0,0,0,,Did you see the news this morning?
+Dialogue: 0,0:05:59.66,0:06:02.79,Default,,0,0,0,,Yeah. Not that I wanted to, though.
+Dialogue: 0,0:06:02.79,0:06:04.74,Default,,0,0,0,,How much of it is true?
+Dialogue: 0,0:06:04.74,0:06:06.99,Default,,0,0,0,,All the important bits are downright lies!
+Dialogue: 0,0:06:06.99,0:06:09.54,Default,,0,0,0,,They don't tell you anything\Nexcept surface-level facts!
+Dialogue: 0,0:06:09.54,0:06:11.66,Default,,0,0,0,,So, as I thought,\Nthey're manipulating public opinion.
+Dialogue: 0,0:06:11.66,0:06:15.33,Default,,0,0,0,,But those things should've all\Nbeen naturally treated as confidential.
+Dialogue: 0,0:06:15.33,0:06:18.62,Default,,0,0,0,,I wouldn't think someone on the outside\Ncould find out about them so easily.
+Dialogue: 0,0:06:20.12,0:06:22.74,Default,,0,0,0,,It's the Seven Sages probably.
+Dialogue: 0,0:06:22.74,0:06:24.24,Default,,0,0,0,,Seven Sages?
+Dialogue: 0,0:06:24.24,0:06:29.37,Default,,0,0,0,,There's this group that calls themselves that.\NNobody knows who they are, though.
+Dialogue: 0,0:06:29.37,0:06:31.95,Default,,0,0,0,,You don't know who they are?
+Dialogue: 0,0:06:31.95,0:06:34.08,Default,,0,0,0,,Aren't they a USNA-based organization?
+Dialogue: 0,0:06:34.08,0:06:35.74,Default,,0,0,0,,Is that possible?
+Dialogue: 0,0:06:35.74,0:06:38.66,Default,,0,0,0,,It is possible!\NFrustrating though it may be!
+Dialogue: 0,0:06:38.66,0:06:42.24,Default,,0,0,0,,All we have is their name\Nwhich they gave us.
+Dialogue: 0,0:06:42.24,0:06:45.41,Default,,0,0,0,,No matter how much we investigate,\Nwe can't come up with anything!
+Dialogue: 0,0:06:45.41,0:06:52.49,Default,,0,0,0,,The only thing we know is that they call their\Nofficers "Sages," and there are seven of them.
+Dialogue: 0,0:06:52.49,0:06:55.33,Default,,0,0,0,,Sages... That's rather on the nose, isn't it?
+Dialogue: 0,0:06:55.33,0:06:58.04,Default,,0,0,0,,I'm telling you, we don't know who they are!
+Dialogue: 0,0:06:58.04,0:07:00.66,Default,,0,0,0,,Hold on, Lina.\NDon't get mad at my brother for it.
+Dialogue: 0,0:07:00.66,0:07:01.70,Default,,0,0,0,,Wha...
+Dialogue: 0,0:07:02.87,0:07:04.95,Default,,0,0,0,,These Seven Sages...
+Dialogue: 0,0:07:04.95,0:07:07.99,Default,,0,0,0,,Is it possible they're linked\Nto the humanist movement?
+Dialogue: 0,0:07:07.99,0:07:12.41,Default,,0,0,0,,I can't deny it outright, but probably not.
+Dialogue: 0,0:07:12.41,0:07:14.04,Default,,0,0,0,,According to our profilers,
+Dialogue: 0,0:07:14.04,0:07:18.49,Default,,0,0,0,,their mentality is transient\Nand delights in committing crime.
+Dialogue: 0,0:07:18.49,0:07:19.91,Default,,0,0,0,,I see.
+Dialogue: 0,0:07:19.91,0:07:22.41,Default,,0,0,0,,One last thing if it's all right...
+Dialogue: 0,0:07:22.41,0:07:23.70,Default,,0,0,0,,What?
+Dialogue: 0,0:07:23.70,0:07:27.62,Default,,0,0,0,,Did they draw the parasite\Ninto this world on purpose?
+Dialogue: 0,0:07:27.62,0:07:29.04,Default,,0,0,0,,No.
+Dialogue: 0,0:07:29.04,0:07:32.20,Default,,0,0,0,,If you were serious about that,\NI'd be angry, Tatsuya.
+Dialogue: 0,0:07:32.20,0:07:35.83,Default,,0,0,0,,I've already passed judgment\Non four of the infected.
+Dialogue: 0,0:07:35.83,0:07:38.91,Default,,0,0,0,,If you're suggesting\Nsomeone did this as part of a scheme...
+Dialogue: 0,0:07:38.91,0:07:41.08,Default,,0,0,0,,I could never forgive them!
+Dialogue: 0,0:07:41.54,0:07:45.37,Default,,0,0,0,,{\fad(0,300)\fs41\clip(150,44,172,130)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}FEBRUARY 12, 2096
+Dialogue: 0,0:07:43.12,0:07:48.29,Default,,0,0,0,,We tried investigating the Seven Sages\Nby various means, as well,
+Dialogue: 0,0:07:48.29,0:07:51.24,Default,,0,0,0,,but unfortunately,\Ndidn't come up with any notable clues.
+Dialogue: 0,0:07:51.24,0:07:56.41,Default,,0,0,0,,There hasn't been any particular manipulating\Nof public opinion since then, either.
+Dialogue: 0,0:07:56.41,0:07:59.33,Default,,0,0,0,,We'll continue investigating\Non our side, too.
+Dialogue: 0,0:07:59.33,0:08:02.16,Default,,0,0,0,,If you come across any clues, contact me.
+Dialogue: 0,0:08:02.16,0:08:03.41,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:08:04.66,0:08:07.04,Default,,0,0,0,,Thank you for coming all the way here today.
+Dialogue: 0,0:08:07.04,0:08:08.41,Default,,0,0,0,,Oh, right...
+Dialogue: 0,0:08:08.41,0:08:10.99,Default,,0,0,0,,Here you are! It's two days early,\Nbut some friendly chocolate.
+Dialogue: 0,0:08:10.99,0:08:12.33,Default,,0,0,0,,The obligatory kind, ma'am?
+Dialogue: 0,0:08:12.33,0:08:13.83,Default,,0,0,0,,Are you unhappy with it?
+Dialogue: 0,0:08:13.83,0:08:15.54,Default,,0,0,0,,Not in the slightest.
+Dialogue: 0,0:08:17.16,0:08:18.58,Default,,0,0,0,,Goodnight.
+Dialogue: 0,0:08:19.83,0:08:21.95,Default,,0,0,0,,{\fs41\clip(150,44,172,130)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}FEBRUARY 13, 2096
+Dialogue: 0,0:08:22.20,0:08:25.74,Default,,0,0,0,,Come to think of it,\NI haven't seen Honoka.
+Dialogue: 0,0:08:25.74,0:08:28.29,Default,,0,0,0,,She went home early.
+Dialogue: 0,0:08:28.29,0:08:29.37,Default,,0,0,0,,Right.
+Dialogue: 0,0:08:29.37,0:08:31.58,Default,,0,0,0,,To get ready for tomorrow, huh?
+Dialogue: 0,0:08:31.58,0:08:33.70,Default,,0,0,0,,Yes, no doubt.
+Dialogue: 0,0:08:36.12,0:08:40.08,Default,,0,0,0,,She's definitely the type\Nto put a lot of effort into things like that.
+Dialogue: 0,0:08:40.08,0:08:42.37,Default,,0,0,0,,Are you happy, Brother?
+Dialogue: 0,0:08:42.37,0:08:46.16,Default,,0,0,0,,It's not that. I just feel bad.
+Dialogue: 0,0:08:46.16,0:08:50.95,Default,,0,0,0,,I can repay any gifts,\Nbut I can't return what really matters.
+Dialogue: 0,0:08:53.99,0:08:58.04,Default,,0,0,0,,Please, you don't need to worry\Nabout things like that.
+Dialogue: 0,0:08:58.04,0:09:04.37,Default,,0,0,0,,Honoka and I want only for you to be happy\Nfrom the bottom of our hearts.
+Dialogue: 0,0:09:04.37,0:09:05.14,Default,,0,0,0,,Really?
+Dialogue: 0,0:09:05.14,0:09:06.62,Default,,0,0,0,,Yes.
+Dialogue: 0,0:09:06.62,0:09:11.16,Default,,0,0,0,,All you need to do\Nis accept that without comment.
+Dialogue: 0,0:09:14.33,0:09:15.74,Default,,0,0,0,,Um...
+Dialogue: 0,0:09:15.74,0:09:18.79,Default,,0,0,0,,I don't want to be a third wheel here, but...
+Dialogue: 0,0:09:18.79,0:09:21.54,Default,,0,0,0,,Essentially, Honoka wasn't looking well
+Dialogue: 0,0:09:21.54,0:09:24.87,Default,,0,0,0,,because she was worried\Nabout giving you chocolate tomorrow?
+Dialogue: 0,0:09:24.87,0:09:27.12,Default,,0,0,0,,You did well to notice, Lina.
+Dialogue: 0,0:09:27.12,0:09:31.33,Default,,0,0,0,,I'd thought chocolate-giving\Nwas a custom unique to Japan.
+Dialogue: 0,0:09:31.33,0:09:33.16,Default,,0,0,0,,That's right.
+Dialogue: 0,0:09:33.16,0:09:37.41,Default,,0,0,0,,Valentine's Day chocolate\Nis a famous bit of Japanese culture.
+Dialogue: 0,0:09:38.58,0:09:40.49,Default,,0,0,0,,To whom will you give\Nyour chocolate, Lina?
+Dialogue: 0,0:09:40.49,0:09:43.04,Default,,0,0,0,,Even you're asking me that, Miyuki?
+Dialogue: 0,0:09:43.04,0:09:45.06,Default,,0,0,0,,I didn't plan on giving chocolate to anyone.
+Dialogue: 0,0:09:45.06,0:09:46.95,Default,,0,0,0,,Oh, but not even obligatory chocolate?
+Dialogue: 0,0:09:46.95,0:09:52.29,Default,,0,0,0,,If I gave individual gifts,\Nit would cause all sorts of problems.
+Dialogue: 0,0:09:52.29,0:09:56.41,Default,,0,0,0,,Really? It must be difficult being so popular.
+Dialogue: 0,0:09:56.41,0:09:59.66,Default,,0,0,0,,You're amazingly popular yourself, Miyuki.
+Dialogue: 0,0:09:59.66,0:10:01.41,Default,,0,0,0,,Who will you give chocolate to?
+Dialogue: 0,0:10:01.41,0:10:03.58,Default,,0,0,0,,Will Tatsuya get the real thing?
+Dialogue: 0,0:10:03.58,0:10:05.79,Default,,0,0,0,,What are you saying, Lina?
+Dialogue: 0,0:10:05.79,0:10:08.54,Default,,0,0,0,,My brother and I are siblings.
+Dialogue: 0,0:10:08.54,0:10:13.04,Default,,0,0,0,,It would be strange for me\Nto give him homemade chocolates.
+Dialogue: 0,0:10:20.70,0:10:25.33,Default,,0,0,0,,Hey, Izumi,\Nwhat do you think she's doing?
+Dialogue: 0,0:10:25.33,0:10:31.74,Default,,0,0,0,,I think she's making\Nchocolates, but... Kasumi...
+Dialogue: 0,0:10:31.74,0:10:35.12,Default,,0,0,0,,about the chocolate our sister is using...
+Dialogue: 0,0:10:35.12,0:10:36.79,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:36.79,0:10:40.29,Default,,0,0,0,,It's the 95% cocoa, 0% sugar kind...
+Dialogue: 0,0:10:40.29,0:10:42.58,Default,,0,0,0,,And that bag...
+Dialogue: 0,0:10:42.58,0:10:45.99,Default,,0,0,0,,It's espresso powder, isn't it?
+Dialogue: 0,0:10:49.45,0:10:54.12,Default,,0,0,0,,I wonder if something bad happened to her.
+Dialogue: 0,0:11:05.33,0:11:08.04,Default,,0,0,0,,Good morning, Tatsuya!
+Dialogue: 0,0:11:08.04,0:11:09.29,Default,,0,0,0,,Good morning, Honoka.
+Dialogue: 0,0:11:09.29,0:11:10.37,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:11:10.37,0:11:12.33,Default,,0,0,0,,Good morning, Miyuki!
+Dialogue: 0,0:11:28.29,0:11:29.99,Default,,0,0,0,,Um, Tatsuya...
+Dialogue: 0,0:11:31.83,0:11:36.41,Default,,0,0,0,,Could I maybe take up\Na bit of your time?
+Dialogue: 0,0:11:36.41,0:11:38.45,Default,,0,0,0,,Sure.
+Dialogue: 0,0:11:38.45,0:11:43.45,Default,,0,0,0,,Then, I'll go on ahead to class, Brother.
+Dialogue: 0,0:11:45.08,0:11:47.83,Default,,0,0,0,,Good luck, Honoka.
+Dialogue: 0,0:11:53.08,0:11:55.58,Default,,0,0,0,,U-Um, Tatchu...
+Dialogue: 0,0:12:00.95,0:12:03.08,Default,,0,0,0,,Thank you, Honoka.
+Dialogue: 0,0:12:08.08,0:12:11.04,Default,,0,0,0,,Um, Tatsuya, what's...
+Dialogue: 0,0:12:11.04,0:12:13.16,Default,,0,0,0,,A little something in return.
+Dialogue: 0,0:12:13.16,0:12:17.29,Default,,0,0,0,,It's separate from next month,\Nso you can expect something then, too.
+Dialogue: 0,0:12:17.29,0:12:21.37,Default,,0,0,0,,I, um... Is this... I can't...
+Dialogue: 0,0:12:21.37,0:12:25.04,Default,,0,0,0,,Um, Tatsuya, may I open it?
+Dialogue: 0,0:12:25.04,0:12:26.54,Default,,0,0,0,,Of course.
+Dialogue: 0,0:12:33.95,0:12:36.62,Default,,0,0,0,,Tatsuya, thank you!
+Dialogue: 0,0:12:36.62,0:12:39.29,Default,,0,0,0,,I'll treasure them forever!
+Dialogue: 0,0:12:56.37,0:12:58.04,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1163FA&\pos(702,68)}VISITOR ARC VI
+Dialogue: 0,0:13:02.95,0:13:04.91,Default,,0,0,0,,Yo, Tatsuya!
+Dialogue: 0,0:13:09.16,0:13:11.58,Default,,0,0,0,,You look kind of exhausted,\Nand the day just started.
+Dialogue: 0,0:13:11.58,0:13:14.95,Default,,0,0,0,,And you seem good as new\Neven though you just got discharged.
+Dialogue: 0,0:13:14.95,0:13:16.58,Default,,0,0,0,,What can I say?
+Dialogue: 0,0:13:16.58,0:13:19.70,Default,,0,0,0,,Good morning.\NLeo, you're back to normal, huh?
+Dialogue: 0,0:13:19.70,0:13:21.66,Default,,0,0,0,,So, this is your first day back?
+Dialogue: 0,0:13:21.66,0:13:24.16,Default,,0,0,0,,I'm glad you recovered\Nfaster than we thought.
+Dialogue: 0,0:13:24.16,0:13:27.83,Default,,0,0,0,,Yep. Thanks for coming to visit\Nso many times.
+Dialogue: 0,0:13:30.16,0:13:32.04,Default,,0,0,0,,Valentine's Day chocolate.
+Dialogue: 0,0:13:32.04,0:13:33.87,Default,,0,0,0,,They're for all you guys.
+Dialogue: 0,0:13:33.87,0:13:34.87,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:13:34.87,0:13:37.04,Default,,0,0,0,,I appreciate it.
+Dialogue: 0,0:13:37.04,0:13:38.24,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:13:38.24,0:13:42.37,Default,,0,0,0,,I thought you were out of the hospital early.\NYou were after the chocolate?
+Dialogue: 0,0:13:42.37,0:13:44.08,Default,,0,0,0,,Of course not!
+Dialogue: 0,0:13:44.08,0:13:46.62,Default,,0,0,0,,Oh, was I right?
+Dialogue: 0,0:13:46.62,0:13:48.12,Default,,0,0,0,,Good morning, Erika.
+Dialogue: 0,0:13:48.12,0:13:49.62,Default,,0,0,0,,You're late today.
+Dialogue: 0,0:13:49.62,0:13:51.20,Default,,0,0,0,,Morning, Tatsuya.
+Dialogue: 0,0:13:51.20,0:13:54.62,Default,,0,0,0,,February 14 is awful every year.
+Dialogue: 0,0:13:54.62,0:13:57.91,Default,,0,0,0,,It's because we got\Nso many men around in our dojo.
+Dialogue: 0,0:13:57.91,0:13:59.79,Default,,0,0,0,,That really does seem like a lot of work.
+Dialogue: 0,0:13:59.79,0:14:02.83,Default,,0,0,0,,It is! It's so annoying!
+Dialogue: 0,0:14:02.83,0:14:06.29,Default,,0,0,0,,Valentine's Day can go\Njump off a cliff for all I care!
+Dialogue: 0,0:14:06.29,0:14:08.33,Default,,0,0,0,,Miki, you must have it nice.
+Dialogue: 0,0:14:09.45,0:14:12.33,Default,,0,0,0,,You've got a lot of girls\Namong your pupils, don't you?
+Dialogue: 0,0:14:12.33,0:14:14.49,Default,,0,0,0,,You get your pick of the litter\Nevery year, don't you?
+Dialogue: 0,0:14:14.49,0:14:16.79,Default,,0,0,0,,Yoshida, is that true?
+Dialogue: 0,0:14:16.79,0:14:18.49,Default,,0,0,0,,That's not true!
+Dialogue: 0,0:14:18.49,0:14:22.83,Default,,0,0,0,,Anyway, if I were that frivolous,\NI could never do any real training!
+Dialogue: 0,0:14:22.83,0:14:25.91,Default,,0,0,0,,Oh no, you don't, Miki.
+Dialogue: 0,0:14:25.91,0:14:29.62,Default,,0,0,0,,What about our dojo\Nare you trying to say is frivolous?
+Dialogue: 0,0:14:29.62,0:14:30.91,Default,,0,0,0,,Uh, wait...
+Dialogue: 0,0:14:30.91,0:14:33.66,Default,,0,0,0,,I didn't mean that...
+Dialogue: 0,0:14:33.66,0:14:36.08,Default,,0,0,0,,Then, what in the world did you mean?
+Dialogue: 0,0:14:45.79,0:14:47.74,Default,,0,0,0,,Oh, there he is!
+Dialogue: 0,0:14:47.74,0:14:49.62,Default,,0,0,0,,Subaru, over here!
+Dialogue: 0,0:14:49.62,0:14:50.83,Default,,0,0,0,,Shiba!
+Dialogue: 0,0:14:50.83,0:14:52.91,Default,,0,0,0,,Hey, Eimi, don't run!
+Dialogue: 0,0:14:54.37,0:14:56.79,Default,,0,0,0,,Would you be so kind\Nas to accept this?
+Dialogue: 0,0:14:56.79,0:15:01.91,Default,,0,0,0,,Satomi... You're acting more theatrical\Nthan usual. What's this?
+Dialogue: 0,0:15:01.91,0:15:05.37,Default,,0,0,0,,This is a gesture of thanks from the\NNine School Competition freshman girls' team.
+Dialogue: 0,0:15:05.37,0:15:07.83,Default,,0,0,0,,How should I say? Our gratitude...
+Dialogue: 0,0:15:07.83,0:15:11.66,Default,,0,0,0,,Oh, it's the whole team\Nbut not Miyuki or Honoka.
+Dialogue: 0,0:15:11.66,0:15:14.45,Default,,0,0,0,,They most likely wish to give you\Nsomething personally.
+Dialogue: 0,0:15:14.45,0:15:17.08,Default,,0,0,0,,If we did anything out of place,\Nthey'd probably get mad.
+Dialogue: 0,0:15:17.08,0:15:18.08,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:15:18.08,0:15:21.99,Default,,0,0,0,,Not that it fully replaces them,\Nbut this includes Shizuku's part, as well.
+Dialogue: 0,0:15:21.99,0:15:25.95,Default,,0,0,0,,Make sure you call her\Nor text her later to say you received it.
+Dialogue: 0,0:15:24.20,0:15:25.95,Default,,0,0,0,,{\an8}Bye!
+Dialogue: 0,0:15:42.74,0:15:45.49,Default,,0,0,0,,Oh, Tatsuya...\NIs it your turn on patrol today?
+Dialogue: 0,0:15:45.49,0:15:46.54,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:46.54,0:15:48.33,Default,,0,0,0,,By the way, Tatsuya,
+Dialogue: 0,0:15:48.33,0:15:50.74,Default,,0,0,0,,I'd like a moment of your time.
+Dialogue: 0,0:15:50.74,0:15:53.37,Default,,0,0,0,,I don't mind, but first...
+Dialogue: 0,0:15:54.04,0:15:56.62,Default,,0,0,0,,Shiba... Water...
+Dialogue: 0,0:16:02.70,0:16:05.45,Default,,0,0,0,,Shiba, you have my thanks.
+Dialogue: 0,0:16:05.45,0:16:08.45,Default,,0,0,0,,Pres... Or rather, Saegusa...
+Dialogue: 0,0:16:08.45,0:16:10.54,Default,,0,0,0,,I'll be taking my leave now.
+Dialogue: 0,0:16:12.83,0:16:14.70,Default,,0,0,0,,Saegusa...
+Dialogue: 0,0:16:14.70,0:16:17.20,Default,,0,0,0,,What in the world happened to Hattori?
+Dialogue: 0,0:16:17.20,0:16:19.45,Default,,0,0,0,,Never mind him. Here!
+Dialogue: 0,0:16:21.04,0:16:23.74,Default,,0,0,0,,Is it... coffee?
+Dialogue: 0,0:16:23.74,0:16:26.29,Default,,0,0,0,,No, chocolate!
+Dialogue: 0,0:16:27.04,0:16:29.04,Default,,0,0,0,,Well, thank you very much.
+Dialogue: 0,0:16:29.79,0:16:32.29,Default,,0,0,0,,Go ahead, try a piece.
+Dialogue: 0,0:16:32.29,0:16:33.54,Default,,0,0,0,,Right now?
+Dialogue: 0,0:16:33.54,0:16:36.37,Default,,0,0,0,,Yep. I want to hear what you think of it.
+Dialogue: 0,0:16:38.70,0:16:42.04,Default,,0,0,0,,In that case, I have something\NI'd like to talk to you about...
+Dialogue: 0,0:16:42.04,0:16:43.45,Default,,0,0,0,,so could we go somewhere else?
+Dialogue: 0,0:16:43.45,0:16:44.99,Default,,0,0,0,,You don't want others to hear?
+Dialogue: 0,0:16:44.99,0:16:45.95,Default,,0,0,0,,Yes.
+Dialogue: 0,0:16:49.20,0:16:52.16,Default,,0,0,0,,Come with me.
+Dialogue: 0,0:16:52.16,0:16:55.08,Default,,0,0,0,,Did you want to discuss the parasite?
+Dialogue: 0,0:16:55.08,0:16:56.62,Default,,0,0,0,,Yes.
+Dialogue: 0,0:16:56.62,0:16:59.58,Default,,0,0,0,,It hasn't been appearing\Nin the media lately.
+Dialogue: 0,0:16:59.58,0:17:02.04,Default,,0,0,0,,Has the damage subsided?
+Dialogue: 0,0:17:02.04,0:17:04.99,Default,,0,0,0,,On the surface, yeah.
+Dialogue: 0,0:17:04.99,0:17:09.08,Default,,0,0,0,,But the number of missing persons this year\Nis high compared to other years,
+Dialogue: 0,0:17:09.08,0:17:12.91,Default,,0,0,0,,so we should probably interpret that\Nas them getting more careful with their actions.
+Dialogue: 0,0:17:12.91,0:17:16.62,Default,,0,0,0,,Maybe taking one down\Nput them on their guard.
+Dialogue: 0,0:17:16.62,0:17:18.24,Default,,0,0,0,,I would imagine.
+Dialogue: 0,0:17:18.24,0:17:22.66,Default,,0,0,0,,It could be that they possess\Ncoperception between them.
+Dialogue: 0,0:17:22.66,0:17:24.70,Default,,0,0,0,,Coperception?
+Dialogue: 0,0:17:24.70,0:17:27.99,Default,,0,0,0,,It's a shortened form\Nof common sensual perception.
+Dialogue: 0,0:17:27.99,0:17:31.12,Default,,0,0,0,,It's a form of ESP observed\Nfrequently between identical twins.
+Dialogue: 0,0:17:31.12,0:17:34.04,Default,,0,0,0,,In other words,\Nif one sees or hears something,
+Dialogue: 0,0:17:34.04,0:17:37.62,Default,,0,0,0,,the entire group\Nshares the experience?
+Dialogue: 0,0:17:37.62,0:17:40.79,Default,,0,0,0,,Yes, but it's nothing\Nmore than speculation.
+Dialogue: 0,0:17:40.79,0:17:43.74,Default,,0,0,0,,I hate not understanding anything.
+Dialogue: 0,0:17:43.74,0:17:45.33,Default,,0,0,0,,When it comes to situations\Nwith a lot of unknowns,
+Dialogue: 0,0:17:45.33,0:17:49.45,Default,,0,0,0,,all we can do is hope we stumble\Nonto ways to deal with them.
+Dialogue: 0,0:17:49.45,0:17:50.74,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:17:50.74,0:17:56.70,Default,,0,0,0,,The fact that I had no clue what the term\N"common sensual perception" meant...
+Dialogue: 0,0:17:56.70,0:17:59.99,Default,,0,0,0,,That won't be\Non the entrance exams, will it?
+Dialogue: 0,0:18:01.04,0:18:08.29,Default,,0,0,0,,ESP is treated as a separate academic field\Nfrom the magic sciences, so I don't think it will.
+Dialogue: 0,0:18:10.91,0:18:12.54,Default,,0,0,0,,That about does it.
+Dialogue: 0,0:18:12.54,0:18:14.54,Default,,0,0,0,,Well, I'll be on my way.
+Dialogue: 0,0:18:56.16,0:18:58.66,Default,,0,0,0,,Are you all right, Brother?
+Dialogue: 0,0:18:59.62,0:19:01.04,Default,,0,0,0,,It's nothing major.
+Dialogue: 0,0:19:01.04,0:19:02.87,Default,,0,0,0,,I'll carry your bag for you.
+Dialogue: 0,0:19:02.87,0:19:03.83,Default,,0,0,0,,That's okay.
+Dialogue: 0,0:19:03.83,0:19:07.20,Default,,0,0,0,,I insist. Come on.
+Dialogue: 0,0:19:07.20,0:19:08.45,Default,,0,0,0,,Fine.
+Dialogue: 0,0:19:22.74,0:19:24.33,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:19:24.33,0:19:26.54,Default,,0,0,0,,Never mind! It's nothing.
+Dialogue: 0,0:19:26.54,0:19:27.79,Default,,0,0,0,,I see.
+Dialogue: 0,0:19:39.12,0:19:41.54,Default,,0,0,0,,Brother? Do you see something?
+Dialogue: 0,0:19:41.54,0:19:43.66,Default,,0,0,0,,No.
+Dialogue: 0,0:19:48.74,0:19:49.50,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:19:49.50,0:19:50.87,Default,,0,0,0,,Well...
+Dialogue: 0,0:19:50.87,0:19:53.16,Default,,0,0,0,,I believe our surveillance\Nmay have been noticed, ma'am.
+Dialogue: 0,0:19:53.16,0:19:55.29,Default,,0,0,0,,What? That's absurd.
+Dialogue: 0,0:19:55.29,0:19:58.49,Default,,0,0,0,,Sure, it's low-orbit,\Nbut it's an observation satellite monitor.
+Dialogue: 0,0:19:58.49,0:20:04.62,Default,,0,0,0,,But, ma'am, I know I saw Tatsuya Shiba's eyes\Nlook directly to here from inside the monitor.
+Dialogue: 0,0:20:04.62,0:20:08.70,Default,,0,0,0,,Fine, then. Replay the video,\Nstarting three minutes ago.
+Dialogue: 0,0:20:14.87,0:20:16.29,Default,,0,0,0,,Here.
+Dialogue: 0,0:20:20.12,0:20:22.20,Default,,0,0,0,,You're overthinking it.
+Dialogue: 0,0:20:22.20,0:20:23.70,Default,,0,0,0,,It's better than letting your mind wander,
+Dialogue: 0,0:20:23.70,0:20:27.33,Default,,0,0,0,,but being too cautious\Nis another source of mistaken judgment.
+Dialogue: 0,0:20:27.33,0:20:28.45,Default,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:20:36.24,0:20:40.58,Default,,0,0,0,,Brother, dinner is ready.
+Dialogue: 0,0:20:40.58,0:20:43.08,Default,,0,0,0,,Chocolate sauce...
+Dialogue: 0,0:20:43.08,0:20:45.12,Default,,0,0,0,,and chocolate fondue...
+Dialogue: 0,0:20:45.12,0:20:47.54,Default,,0,0,0,,This is how she did it?
+Dialogue: 0,0:20:47.54,0:20:49.16,Default,,0,0,0,,Brother...
+Dialogue: 0,0:20:49.16,0:20:52.08,Default,,0,0,0,,Please feel free to eat up.
+Dialogue: 0,0:20:52.08,0:20:56.08,Default,,0,0,0,,This is the Valentine's chocolate\Nthat I prepared...
+Dialogue: 0,0:20:56.08,0:20:58.45,Default,,0,0,0,,for you and you alone.
+Dialogue: 0,0:21:13.04,0:21:14.87,Default,,0,0,0,,Your face is flushed.
+Dialogue: 0,0:21:14.87,0:21:17.58,Default,,0,0,0,,Oh? Why, I wonder...
+Dialogue: 0,0:21:28.12,0:21:31.49,Default,,0,0,0,,You probably didn't cook off\Nenough of the brandy in the fondue.
+Dialogue: 0,0:21:31.49,0:21:34.08,Default,,0,0,0,,Go rest for a bit on the sofa.
+Dialogue: 0,0:21:34.08,0:21:36.20,Default,,0,0,0,,I'll clean up here.
+Dialogue: 0,0:21:37.20,0:21:38.99,Default,,0,0,0,,Okay.
+Dialogue: 0,0:21:44.45,0:21:48.08,Default,,0,0,0,,I bungled it up at the very end.
+Dialogue: 0,0:21:52.70,0:21:54.24,Default,,0,0,0,,Why...
+Dialogue: 0,0:21:54.24,0:21:57.54,Default,,0,0,0,,must I be his sister?
+Dialogue: 0,0:23:06.20,0:23:08.99,Default,,0,0,0,,I didn't have to lie about it.
+Dialogue: 0,0:23:09.20,0:23:12.04,Default,,0,0,0,,It's just obligatory chocolate.
+Dialogue: 0,0:23:12.04,0:23:14.54,Default,,0,0,0,,And yet, I couldn't give it to him.
+Dialogue: 0,0:23:17.29,0:23:19.62,Default,,0,0,0,,It was as though I...
+Dialogue: 0,0:23:21.79,0:23:23.37,Default,,0,0,0,,This has to be some sick joke!
+Dialogue: 0,0:23:23.37,0:23:28.33,Default,,0,0,0,,Me, in love with that sarcastic, sister-obsessed\Nphilanderer? I'll never allow that!
+Dialogue: 0,0:23:34.12,0:23:36.66,Default,,0,0,0,,Welcome home, Major Sirius.
+Dialogue: 0,0:23:42.33,0:23:43.95,Default,,0,0,0,,Colonel!
+Dialogue: 0,0:23:48.41,0:23:52.04,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC VII
